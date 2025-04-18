@@ -14,7 +14,7 @@ A simple intern management system built with Flask and MySQL. Interns can regist
 - http://127.0.0.1:5000/logout
 - http://127.0.0.1:5000/admin/register
 - http://127.0.0.1:5000/admin/task
-- http://127.0.0.1:5000intern/task
+- http://127.0.0.1:5000/intern/task
 
 ## Setup
 

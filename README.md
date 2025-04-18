@@ -19,7 +19,7 @@ A simple intern management system built with Flask and MySQL. Interns can regist
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/intern-management.git
+git clone https://github.com/Aditya168-coder/intern-management.git
 cd intern-management
 pip install -r requirements.txt
 python main.py
